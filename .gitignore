@@ -1,0 +1,13 @@
+# Fichiers générés par la compilation
+build/
+*.o
+portscan
+# Archive de livraison
+portscan-c.zip
+# Rapports générés pendant les essais
+*.html
+!docs/*.html
+rapport*.txt
+
+# Fichiers macOS
+.DS_Store
